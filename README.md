@@ -33,9 +33,6 @@ Comitando mudanças
 Adicionando e Comitando com o mesmo comando
 ### git commit -am "mensagem comentários sobre as alterações"
 
-
-
-
 Enviando para o GitHub
 ### git push origin master
 
@@ -73,6 +70,6 @@ REPOSITÓRIOS MODELOS E DE ESTUDOS / PESQUISAS
 
 ### https://github.com/trekhleb/javascript-algorithms
 
-DICAS PARA USO DO TERMINAL
+
 
 
